@@ -1,11 +1,11 @@
 {
-  "main.js": "/sachinsaxena1996/songs/static/js/main.4d818a97.chunk.js",
-  "main.js.map": "/sachinsaxena1996/songs/static/js/main.4d818a97.chunk.js.map",
-  "runtime~main.js": "/sachinsaxena1996/songs/static/js/runtime~main.fabeb30d.js",
-  "runtime~main.js.map": "/sachinsaxena1996/songs/static/js/runtime~main.fabeb30d.js.map",
-  "static/js/2.baa79972.chunk.js": "/sachinsaxena1996/songs/static/js/2.baa79972.chunk.js",
-  "static/js/2.baa79972.chunk.js.map": "/sachinsaxena1996/songs/static/js/2.baa79972.chunk.js.map",
-  "index.html": "/sachinsaxena1996/songs/index.html",
-  "precache-manifest.f777e5a5a9672351e4dfbbef5b7e2ee6.js": "/sachinsaxena1996/songs/precache-manifest.f777e5a5a9672351e4dfbbef5b7e2ee6.js",
-  "service-worker.js": "/sachinsaxena1996/songs/service-worker.js"
+  "main.js": "/songs/static/js/main.4d818a97.chunk.js",
+  "main.js.map": "/songs/static/js/main.4d818a97.chunk.js.map",
+  "runtime~main.js": "/songs/static/js/runtime~main.198a175a.js",
+  "runtime~main.js.map": "/songs/static/js/runtime~main.198a175a.js.map",
+  "static/js/2.baa79972.chunk.js": "/songs/static/js/2.baa79972.chunk.js",
+  "static/js/2.baa79972.chunk.js.map": "/songs/static/js/2.baa79972.chunk.js.map",
+  "index.html": "/songs/index.html",
+  "precache-manifest.779a0126d7119bed1ffef03ac3326b23.js": "/songs/precache-manifest.779a0126d7119bed1ffef03ac3326b23.js",
+  "service-worker.js": "/songs/service-worker.js"
 }
