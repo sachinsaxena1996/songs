@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/songs/precache-manifest.779a0126d7119bed1ffef03ac3326b23.js"
+  "/sachinsaxena1996/songs/precache-manifest.f777e5a5a9672351e4dfbbef5b7e2ee6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/songs/index.html", {
+workbox.routing.registerNavigationRoute("/sachinsaxena1996/songs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
